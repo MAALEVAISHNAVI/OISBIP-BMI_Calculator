@@ -1,1 +1,1 @@
-# Oasis_Infobyte
+I have developed BMI(Body Mass Index) Calculator project TASK 2. This task is assigned by OASIS INFOBYTE as a part of my intership. I have developed this project using Python Programming Language. It calculates the BMI and classify it into categories based on the predefined ranges. And also displays the result.
